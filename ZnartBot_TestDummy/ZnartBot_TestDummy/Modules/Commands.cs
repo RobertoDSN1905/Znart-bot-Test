@@ -29,21 +29,21 @@ namespace ZnartBot_TestDummy.Modules
             switch (number)
             {
                 case 1:
-                    await ReplyAsync("UN SALUDO A LA BOLA DE JOTOS QUE CONFORMA ***" + serverName + "*** ESPERO QUE SE LA ESTEN PASANDO A TODA MADRE HIJOS DE SU PUTA MADRE \nFIERRO PARIENTE ALV");
+                    await ReplyAsync("UN SALUDO A LA BOLA DE **** QUE CONFORMA ***" + serverName + "*** ESPERO QUE SE LA ESTEN PASANDO A TODA MADRE HIJOS DE SU *** MADRE \nFIERRO PARIENTE ***");
                     break;
                     case 2:
-                    await ReplyAsync("QUE ONDA ***" + serverName + "*** GRUPO DE PINCHES MAMAVERGAS ESPERO QUE SE LA ESTEN PASANDO A TODA MADRE Y SI NO PREPARANSE PARA CHINGAR A SU MADRE");
+                    await ReplyAsync("QUE ONDA ***" + serverName + "*** GRUPO DE *** **** ESPERO QUE SE LA ESTEN PASANDO A TODA MADRE Y SI NO PREPARANSE PARA **** A SU MADRE");
                     break;
                 case 3:
-                    await ReplyAsync("EL ***" + serverName + "*** ESTA EN MODO ALTERADO ASI QUE PREPAREN ESAS NALGAS MIADAS PARA LA PINCHE RIATIZA QUE LES VAMOS A DAR");
+                    await ReplyAsync("EL ***" + serverName + "*** ESTA EN MODO ALTERADO ASI QUE PREPAREN ESAS *** *** PARA LA *** *** QUE LES VAMOS A DAR");
                     break;
             }
 
         }
 
-        [Command("boner")]
+        [Command("memesong")]
 
-        public async Task Boner()
+        public async Task Memesong()
         {
             await ReplyAsync("audio no disponible por el momento");
         }
